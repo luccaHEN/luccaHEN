@@ -14,7 +14,7 @@
   <li><strong>JavaScript</strong></li>
 </ul>
 
-<h4> Projeto Landing Page
+<h4> Projeto Landing Page </h4>
   <p><a href="https://github.com/luccaHEN/Precision-LandingPage">Código Fonte</a></p>
   <p><a href="https://lukkzhs.github.io/PrecisionV1/">Landing Page</a></p>
 
