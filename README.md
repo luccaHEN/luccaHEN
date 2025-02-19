@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1>Olá, eu sou Lucca Henrique 👋</h1>
 
-<!--
-**luccaHEN/luccaHEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Bem-vindo ao meu perfil do GitHub! Aqui você encontrará um pouco sobre minha experiência acadêmica e meus hobbies.</p>
 
-Here are some ideas to get you started:
+<h2>Experiência Acadêmica</h2>
+<p>Tenho experiência com as seguintes tecnologias:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Front-end</h3>
+<ul>
+  <li><strong>React</strong></li>
+  <li><strong>React Native</strong></li>
+  <li><strong>HTML</strong></li>
+  <li><strong>CSS</strong></li>
+  <li><strong>JavaScript</strong></li>
+</ul>
+
+<h3>Back-end</h3>
+<ul>
+  <li><strong>Java</strong></li>
+  <li><strong>Spring Boot</strong></li>
+</ul>
+
+<h3>Bancos de Dados</h3>
+<ul>
+  <li><strong>MongoDB</strong></li>
+  <li><strong>SQL</strong></li>
+</ul>
+
+<h2>Hobbies</h2>
+<p>Quando não estou programando, gosto de:</p>
+<ul>
+  <li>Escutar música</li>
+  <li>Jogar no computador</li>
+</ul>
+
+<footer>
+  <p>Obrigado pela visita! Conecte-se comigo para saber mais.</p>
+</footer>
