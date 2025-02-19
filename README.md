@@ -14,7 +14,7 @@
   <li><strong>JavaScript</strong></li>
 </ul>
 
-- Projeto Landing Page
+<h4> Projeto Landing Page
   <p><a href="https://github.com/luccaHEN/Precision-LandingPage">Precision LP</a></p>
 
 <h3>Back-end</h3>
