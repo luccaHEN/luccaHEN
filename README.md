@@ -35,4 +35,6 @@
 
 <footer>
   <p>Obrigado pela visita! Conecte-se comigo para saber mais.</p>
+  <p><a href="https://www.linkedin.com/in/lucca-sousa-51787b27a/" target="_blank">Meu LinkedIn</a></p>
 </footer>
+
