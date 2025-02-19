@@ -16,7 +16,7 @@
 
 <h4> Projeto Landing Page
   <p><a href="https://github.com/luccaHEN/Precision-LandingPage">Código Fonte</a></p>
-  <p><a href="[https://github.com/luccaHEN/Precision-LandingPage](https://lukkzhs.github.io/PrecisionV1/)">Landing Page</a></p>
+  <p><a href="https://lukkzhs.github.io/PrecisionV1/">Landing Page</a></p>
 
 <h3>Back-end</h3>
 <ul>
