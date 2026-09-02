@@ -4,11 +4,11 @@ Desenvolvedor fullstack com conhecimento em Java (Spring Boot), Node.js (TypeScr
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Backend:** Java | Spring Boot | Spring Security | Hibernate | JPA | Node.js | TypeScript
+**Backend:** Java | Spring Boot | Node.js | Express
 
-**Frontend:** React | HTML5 | CSS3 | JavaScript
+**Frontend:** React | HTML5 | CSS3 | JavaScript | TypeScript
 
-**Mobile:** React Native | Flutter | Dart
+**Mobile:** Flutter | Dart
 
 **Banco de Dados:** PostgreSQL | MySQL | MongoDB
 
