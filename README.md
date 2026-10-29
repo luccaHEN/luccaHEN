@@ -16,7 +16,7 @@ Desenvolvedor fullstack com conhecimento em Java (Spring Boot), Node.js (TypeScr
 
 ## 🚀 Portfólio
 
-- 🌐 [Portfólio Pessoal](https://luccahen.github.io/PortfolioLucca/)
+- 🌐 [Portfólio Pessoal](https://portfolio-lucca-chi.vercel.app/)
 
 ## 📫 Contato
 
